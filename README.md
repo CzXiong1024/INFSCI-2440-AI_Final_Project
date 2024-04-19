@@ -11,5 +11,5 @@
 | Yutong Tang (YUT89)        | Data Exploratory Analyst, Debugger, Results testing/evaluation|
 | Yuxuan Feng (YUF47)        | RF Model Training, Debugger, Results testing/evaluation |
 
-
+**Please find the key codes in src/ai_enhanced_rice_classification.ipynb**
 
