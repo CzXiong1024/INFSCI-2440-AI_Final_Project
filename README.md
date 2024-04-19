@@ -13,4 +13,4 @@
 ---
 ## **Please find the key codes in src/ai_enhanced_rice_classification.ipynb**
 ---
-## **Please find the presentation and demo video [HERE](https://pitt-my.sharepoint.com/:v:/g/personal/chx53_pitt_edu/EW0zcvfE0MlHg7OAJMOTta4B_XqaqUQac8c6ZH7dPSV9DQ?e=DJWiTb)**
+## **Please find the presentation and demo video [HERE](https://www.youtube.com/watch?v=805Ng0HI06I) or [HERE](https://pitt-my.sharepoint.com/:v:/g/personal/chx53_pitt_edu/EW0zcvfE0MlHg7OAJMOTta4B_XqaqUQac8c6ZH7dPSV9DQ?e=DJWiTb)**
